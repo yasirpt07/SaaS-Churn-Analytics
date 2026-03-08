@@ -62,7 +62,6 @@ and demonstrates how ML can:
 - Improve retention strategies
 - Provide explainable AI insights
 
-
 ## ⚙️ Run Locally
 
 ```bash
