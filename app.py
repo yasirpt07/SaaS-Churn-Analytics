@@ -4,6 +4,7 @@ import pandas as pd
 
 app = Flask(__name__)
 
+
 # Load artifacts
 model = joblib.load("data/churn_model.pkl")
 scaler = joblib.load("data/scaler.pkl")
